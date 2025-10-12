@@ -1,0 +1,106 @@
+{
+    "greeting": {
+        "patterns": ["hello", "hi", "hey", "good morning", "good evening", "howdy"],
+        "responses": ["Hello!", "Hi there!", "Hey!", "Howdy!", "Greetings!"]
+    },
+    "farewell": {
+        "patterns": ["bye", "goodbye", "see you", "later", "farewell", "exit", "quit"],
+        "responses": ["Goodbye!", "See you later!", "Take care!", "Bye for now!", "Catch you later!"]
+    },
+    "thanks": {
+        "patterns": ["thanks", "thank you", "thx", "appreciate it", "many thanks"],
+        "responses": ["You're welcome!", "No problem!", "Happy to help!", "Anytime!", "My pleasure!"]
+    },
+    "name": {
+        "patterns": ["your name", "who are you", "what is your name"],
+        "responses": ["I’m your friendly chatbot!", 
+                        "You can call me Chatbot.", 
+                            "I don’t have a fancy name,just Chatbot works!"
+                        ]
+    },
+    "age": {
+        "patterns": ["your age", "how old are you"],
+        "responses": ["I don’t really have an age — I live in code!",
+                         "I’m timeless, like the internet.",
+                             "Bots don’t age, we just upgrade!"
+                            ]
+    },
+    "feelings": {
+        "patterns": ["how are you","how are you doing" ,"how do you feel", "are you okay"],
+        "responses": ["I’m doing great, thanks for asking!", 
+                        "I’m just code, but I feel chatty today!", 
+                            "Always ready to help!"]
+    },
+    "weather": {
+        "patterns": ["weather", "is it raining", "sunny", "forecast"],
+        "responses": ["I can’t check the weather right now, but I hope it’s nice where you are!",
+                         "It’s always sunny in the code world!"]
+    },
+    "time": {
+        "patterns": ["time", "what time is it", "current time"],
+        "responses": ["I don’t have a watch, but you can check your device clock!",
+                         "Time flies when you’re chatting with me!"]
+    },
+    "date": {
+        "patterns": ["date", "what day is it", "today"],
+        "responses": ["Check your calendar, but I bet it’s a good day!",
+                         "Every day is chatbot day for me!"]
+    },
+    "food": {
+        "patterns": ["hungry", "food", "eat", "meal"],
+        "responses": ["I don’t eat, but pizza sounds great right now!",
+                         "I run on data, not food!", 
+                            "Humans love food — what’s your favorite?"]
+    },
+    "jokes": {
+        "patterns": ["joke", "funny", "make me laugh", "laugh"],
+        "responses": [
+            "Why don’t programmers like nature? Too many bugs.",
+            "I would tell you a UDP joke, but you might not get it.",
+            "Why did the Python live on land? Because it was above C level.",
+            "Why do Java developers wear glasses? Because they don’t C#!"
+        ]
+    },
+    "hobbies": {
+        "patterns": ["hobby", "what do you do for fun", "interests"],
+        "responses": ["I like chatting with humans like you!", 
+                        "Processing text is my hobby.", 
+                            "I enjoy learning new responses."]
+    },
+    "programming": {
+        "patterns": ["programming", "coding", "developer", "software"],
+        "responses": ["Coding is awesome!", 
+                        "I’m basically made of Python code.", 
+                            "Developers make me smarter every day!"]
+    },
+    "ai": {
+        "patterns": ["ai", "artificial intelligence", "machine learning"],
+        "responses": ["Yep, I’m AI — Artificially Interesting 😉",
+                        "AI is all around us these days.",
+                             "I’m a simple chatbot, but I’m powered by code."]
+    },
+    "sports": {
+        "patterns": ["sports", "football", "soccer", "basketball", "tennis", "game"],
+        "responses": ["I’m not great at sports, but I hear football is popular!", "Basketball sounds fun!", "Do you play any sports?"]
+    },
+    "movies": {
+        "patterns": ["movie", "film", "cinema", "watch"],
+        "responses": ["I don’t watch movies, but I’ve heard Inception is mind-blowing!", "Do you have a favorite movie?", "I think sci-fi movies are fascinating!"]
+    },
+    "music": {
+        "patterns": ["music", "song", "sing", "listen", "band"],
+        "responses": ["I can’t play music, but I know humans love it!", "What’s your favorite song?", "Music makes life better!"]
+    },
+    "learning": {
+        "patterns": ["learn", "study", "school", "college", "university"],
+        "responses": ["Learning is awesome!", "Knowledge is power!", "What are you studying?"]
+    },
+    "default": {
+        "responses": [
+            "I'm not sure how to respond to that.",
+            "Can you please clarify?",
+            "Let’s talk about something else.",
+            "Interesting! Tell me more."
+        ]
+    }
+}
