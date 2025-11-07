@@ -51,35 +51,6 @@ Explore each folder for specific code, resources, and documentation!
 
 ---
 
-## 📌 Getting Started
-
-1. Clone the repository:
-    ```
-    git clone https://github.com/BootMerc/Depi_Amit_AI_BNS3.git
-    ```
-2. Open notebooks using *JupyterLab*, *VS Code*, or your IDE.
-3. Browse each directory for topic-specific resources and code.
-4. For projects with GUIs, run the corresponding `.py` or Qt project files.
-
----
-
-## 🤝 Contributing
-
-Contributions, questions, and ideas are welcome!  
-- Fork the repo  
-- Open issues or pull requests  
-- Suggest improvements  
-(Consider adding a `CONTRIBUTING.md` file to help guide contributions.)
-
----
-
-## 📜 License
-
-This project is open-source.  
-See the [LICENSE](LICENSE) for details.
-
----
-
 ## 📬 Contact
 
 Created and maintained by **Ziad Mohamed Shaker** ([@BootMerc](https://github.com/BootMerc))  
